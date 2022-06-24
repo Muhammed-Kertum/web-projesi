@@ -77,10 +77,10 @@ header a:hover{
 
 #showcase{
 	min-height: 400px;
-	background:url('../img/23.JPG') fixed ;
+	background:url('../img/99.JPG') fixed ;
 	background-size: cover;
 	color:#ffffff;
-    text-align: center;
+    	text-align: center;
 }
 #showcase h1{
 	margin-top:100px;
